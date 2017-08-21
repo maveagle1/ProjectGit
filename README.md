@@ -1,4 +1,2 @@
-# ProjectGit
-
 hello
-Help me out
+help me
